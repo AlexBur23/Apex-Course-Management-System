@@ -6,8 +6,12 @@ import React from "react";
 
 function App() {
   return (
-    <>
-      <div>{<Header />}</div>
+    <div className="flex flex-col min-h-screen">
+      <Header />
+      <div className="flex flex-1">
+        <aside className="w-25 bg-gray-900 min-h-screen">{<Sidebar />}</aside>
+        <main className="flex-1"></main>
+      </div>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
@@ -15,7 +19,7 @@ function App() {
         <Route path="/courseschedule" element={<CourseSchedule />} />
         <Route path="/coursesearch" element={<CourseSearch />} />
       </Routes>
-    </>
+    </div>
   );
 }
 

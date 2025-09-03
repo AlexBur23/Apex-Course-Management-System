@@ -1,4 +1,12 @@
-:root {
+@import "tailwindcss";
+
+@layer components {
+  .sidebar-icon {
+    @apply relative flex items-center justify-center h-12 w-12 mx-auto mt-5 mb-2 bg-gray-800 text-green-500 hover:bg-green-600 hover:text-white rounded-3xl hover:rounded-xl transition-all duration-300 ease-linear cursor-pointer;
+  }
+}
+
+/* :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -52,9 +60,9 @@ button:hover {
 button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
-}
+} */
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
     background-color: #ffffff;
@@ -65,4 +73,4 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
-}
+} */
