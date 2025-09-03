@@ -1,7 +1,7 @@
 import "./App.css";
 import { Route, Routes } from "react-router-dom";
 import { Home, Login, Profile, CourseSchedule, CourseSearch } from "./pages";
-import { Header, Sidebar } from "./components/components.js";
+import { Header, Sidebar, MainContent } from "./components/components.js";
 import React from "react";
 
 function App() {
@@ -10,7 +10,7 @@ function App() {
       <Header />
       <div className="flex flex-1">
         <aside className="w-25 bg-gray-900 min-h-screen">{<Sidebar />}</aside>
-        <main className="flex-1"></main>
+        <main className="flex-1">{<MainContent />}</main>
       </div>
       <Routes>
         <Route path="/" element={<Home />} />

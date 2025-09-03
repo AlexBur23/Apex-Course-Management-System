@@ -1,0 +1,551 @@
+[
+  {
+    "id": 1,
+    "course_number": "CSC 2100",
+    "title": "Introduction to Programming",
+    "professor": "Dr. Smith, Alice",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 2,
+    "course_number": "CSC 2200",
+    "title": "Computer Organization",
+    "professor": "Dr. Johnson, Bob",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 4
+  },
+  {
+    "id": 3,
+    "course_number": "CSC 2300",
+    "title": "Discrete Mathematics",
+    "professor": "Dr. Lee, Carol",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 4,
+    "course_number": "CSC 2400",
+    "title": "Web Development",
+    "professor": "Dr. Brown, John",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 5,
+    "course_number": "CSC 2500",
+    "title": "Database Systems",
+    "professor": "Dr. Miller, Susan",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 6,
+    "course_number": "CSC 2600",
+    "title": "Operating Systems",
+    "professor": "Dr. Wilson, Mark",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 7,
+    "course_number": "CSC 2700",
+    "title": "Networks",
+    "professor": "Dr. Clark, Nancy",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 8,
+    "course_number": "CSC 2800",
+    "title": "Software Engineering",
+    "professor": "Dr. Lewis, David",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 9,
+    "course_number": "CSC 2900",
+    "title": "Artificial Intelligence",
+    "professor": "Dr. Walker, Emma",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 10,
+    "course_number": "CSC 3000",
+    "title": "Machine Learning",
+    "professor": "Dr. Hall, Brian",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 11,
+    "course_number": "CSC 3100",
+    "title": "Data Structure and Algorithms",
+    "professor": "Dr. Brown, John",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 12,
+    "course_number": "CSC 3200",
+    "title": "Mobile App Development",
+    "professor": "Dr. Young, Linda",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 13,
+    "course_number": "CSC 3300",
+    "title": "Cybersecurity",
+    "professor": "Dr. King, Robert",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 4
+  },
+  {
+    "id": 14,
+    "course_number": "CSC 3400",
+    "title": "Cloud Computing",
+    "professor": "Dr. Wright, Karen",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 15,
+    "course_number": "CSC 3500",
+    "title": "Parallel Computing",
+    "professor": "Dr. Lopez, James",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 16,
+    "course_number": "CSC 3600",
+    "title": "Game Development",
+    "professor": "Dr. Hill, Patricia",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 17,
+    "course_number": "CSC 3700",
+    "title": "Human-Computer Interaction",
+    "professor": "Dr. Scott, Michael",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 18,
+    "course_number": "CSC 3800",
+    "title": "Compiler Design",
+    "professor": "Dr. Green, Barbara",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 19,
+    "course_number": "CSC 3900",
+    "title": "Theory of Computation",
+    "professor": "Dr. Adams, Steven",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 20,
+    "course_number": "CSC 4000",
+    "title": "Big Data Analytics",
+    "professor": "Dr. Nelson, Jennifer",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 21,
+    "course_number": "CSC 4100",
+    "title": "Quantum Computing",
+    "professor": "Dr. Carter, William",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 22,
+    "course_number": "CSC 4200",
+    "title": "Bioinformatics",
+    "professor": "Dr. Mitchell, Elizabeth",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 23,
+    "course_number": "CSC 4300",
+    "title": "Natural Language Processing",
+    "professor": "Dr. Perez, Charles",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 24,
+    "course_number": "CSC 4400",
+    "title": "Robotics",
+    "professor": "Dr. Roberts, Jessica",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 25,
+    "course_number": "CSC 4500",
+    "title": "Information Retrieval",
+    "professor": "Dr. Turner, Daniel",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 26,
+    "course_number": "CSC 4600",
+    "title": "Computer Graphics",
+    "professor": "Dr. Phillips, Nancy",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 27,
+    "course_number": "CSC 4700",
+    "title": "Data Mining",
+    "professor": "Dr. Campbell, George",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 28,
+    "course_number": "CSC 4800",
+    "title": "Advanced Programming",
+    "professor": "Dr. Parker, Susan",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 29,
+    "course_number": "CSC 4900",
+    "title": "Ethics in Computing",
+    "professor": "Dr. Evans, Paul",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 30,
+    "course_number": "CSC 5000",
+    "title": "Special Topics in CS",
+    "professor": "Dr. Edwards, Laura",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 31,
+    "course_number": "CSC 5100",
+    "title": "Internship in CS",
+    "professor": "Dr. Collins, Kevin",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 32,
+    "course_number": "CSC 5200",
+    "title": "Capstone Project",
+    "professor": "Dr. Stewart, Angela",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 33,
+    "course_number": "CSC 5300",
+    "title": "Research Methods",
+    "professor": "Dr. Sanchez, Brian",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 34,
+    "course_number": "CSC 5400",
+    "title": "Advanced Algorithms",
+    "professor": "Dr. Morris, Karen",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 35,
+    "course_number": "CSC 5500",
+    "title": "Distributed Systems",
+    "professor": "Dr. Rogers, Steven",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 36,
+    "course_number": "CSC 5600",
+    "title": "Embedded Systems",
+    "professor": "Dr. Reed, Emily",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 37,
+    "course_number": "CSC 5700",
+    "title": "Pattern Recognition",
+    "professor": "Dr. Cook, Matthew",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 38,
+    "course_number": "CSC 5800",
+    "title": "Information Security",
+    "professor": "Dr. Morgan, Lisa",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 39,
+    "course_number": "CSC 5900",
+    "title": "Data Visualization",
+    "professor": "Dr. Bell, Anthony",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 40,
+    "course_number": "CSC 6000",
+    "title": "Advanced Databases",
+    "professor": "Dr. Bailey, Michelle",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 41,
+    "course_number": "CSC 6100",
+    "title": "Web Security",
+    "professor": "Dr. Rivera, Thomas",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 42,
+    "course_number": "CSC 6200",
+    "title": "Mobile Security",
+    "professor": "Dr. Cooper, Amanda",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 43,
+    "course_number": "CSC 6300",
+    "title": "Cloud Security",
+    "professor": "Dr. Richardson, Eric",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 44,
+    "course_number": "CSC 6400",
+    "title": "Blockchain Technology",
+    "professor": "Dr. Cox, Stephanie",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 45,
+    "course_number": "CSC 6500",
+    "title": "Augmented Reality",
+    "professor": "Dr. Howard, Frank",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 46,
+    "course_number": "CSC 6600",
+    "title": "Virtual Reality",
+    "professor": "Dr. Ward, Rachel",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 47,
+    "course_number": "CSC 6700",
+    "title": "Digital Forensics",
+    "professor": "Dr. Torres, Jason",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 48,
+    "course_number": "CSC 6800",
+    "title": "Quantum Algorithms",
+    "professor": "Dr. Peterson, Megan",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 49,
+    "course_number": "CSC 6900",
+    "title": "Advanced Robotics",
+    "professor": "Dr. Gray, Justin",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 50,
+    "course_number": "ENG 1010",
+    "title": "English Composition I",
+    "professor": "Dr. Carter, Emily",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 51,
+    "course_number": "ENG 1020",
+    "title": "English Composition II",
+    "professor": "Dr. Harris, Michael",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 52,
+    "course_number": "MAT 1100",
+    "title": "College Algebra",
+    "professor": "Dr. Lee, Sarah",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 53,
+    "course_number": "MAT 1200",
+    "title": "Calculus I",
+    "professor": "Dr. Kim, David",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 4
+  },
+  {
+    "id": 54,
+    "course_number": "SCI 1300",
+    "title": "General Science",
+    "professor": "Dr. Patel, Priya",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 55,
+    "course_number": "BIO 1400",
+    "title": "Biology I",
+    "professor": "Dr. Martinez, Juan",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 4
+  },
+  {
+    "id": 56,
+    "course_number": "CHE 1500",
+    "title": "General Chemistry",
+    "professor": "Dr. Robinson, Lisa",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 4
+  },
+  {
+    "id": 57,
+    "course_number": "PHY 1600",
+    "title": "Physics I",
+    "professor": "Dr. White, James",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 4
+  },
+  {
+    "id": 58,
+    "course_number": "HIS 1700",
+    "title": "World History",
+    "professor": "Dr. Thompson, Olivia",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 59,
+    "course_number": "PSY 1800",
+    "title": "Introduction to Psychology",
+    "professor": "Dr. Anderson, Mark",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  },
+  {
+    "id": 60,
+    "course_number": "ART 1900",
+    "title": "Art Appreciation",
+    "professor": "Dr. King, Sophia",
+    "semester": "Fall",
+    "year": 2025,
+    "credit_hours": 3
+  },
+  {
+    "id": 61,
+    "course_number": "BUS 2000",
+    "title": "Principles of Management",
+    "professor": "Dr. Scott, William",
+    "semester": "Spring",
+    "year": 2026,
+    "credit_hours": 3
+  }
+]

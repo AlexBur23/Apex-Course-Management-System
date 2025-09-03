@@ -3,7 +3,7 @@ const Header = () => {
     <header className="w-full h-18 flex items-center justify-between top-0 bg-gray-900 text-green-500">
       <div className="flex items-center">
         <img
-          src="../../public/apex.svg"
+          src="/apex.svg"
           alt="The apex logo"
           width={100}
           height={100}
