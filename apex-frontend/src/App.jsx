@@ -1,14 +1,13 @@
 import "./App.css";
-import apexLogo from "./assets/apex.svg";
 import { Route, Routes } from "react-router-dom";
 import { Home, Login, Profile, CourseSchedule, CourseSearch } from "./pages";
+import { Header, Sidebar } from "./components/components.js";
+import React from "react";
 
 function App() {
   return (
     <>
-      <div>
-        <img src={apexLogo} alt="The apex logo" />
-      </div>
+      <div>{<Header />}</div>
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/login" element={<Login />} />
