@@ -12,7 +12,9 @@ const Header = () => {
         <h1>Apex Course Management System</h1>
       </div>
 
-      <button className="button">Logout</button>
+      <button className="button border border-green-500 rounded-2xl px-5 mr-5 hover:bg-gray-700">
+        Logout
+      </button>
     </header>
   );
 };
