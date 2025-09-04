@@ -6,7 +6,8 @@
     "professor": "Dr. Smith, Alice",
     "semester": "Fall",
     "year": 2025,
-    "credit_hours": 3
+    "credit_hours": 3,
+    "is_enrolled": true
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "professor": "Dr. Johnson, Bob",
     "semester": "Spring",
     "year": 2026,
-    "credit_hours": 4
+    "credit_hours": 4,
+    "is_enrolled": true
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "professor": "Dr. Lee, Carol",
     "semester": "Fall",
     "year": 2025,
-    "credit_hours": 3
+    "credit_hours": 3,
+    "is_enrolled": true
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "professor": "Dr. Brown, John",
     "semester": "Spring",
     "year": 2026,
-    "credit_hours": 3
+    "credit_hours": 3,
+    "is_enrolled": true
   },
   {
     "id": 5,
